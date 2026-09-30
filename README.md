@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 DevOps Course 2026
 
 Репозиторий для практических работ по курсу DevOps.
@@ -19,4 +18,4 @@ DevOps Course 2026
 - Git / GitHub
 - Python
 - Docker (скоро)
->>>>>>> conflict/readme-update-2
+
